@@ -10,8 +10,3 @@ Forever curious about the inner workings of tech, I'm on a mission to build **hi
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omsingh.ailearn@gmail.com)
 
 ---
-
-### My GitHub Stats
-
-[![Om Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmSingh2003&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmSingh2003&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
